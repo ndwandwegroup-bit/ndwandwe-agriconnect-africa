@@ -186,3 +186,4 @@ Ndwandwe AgriConnect Africa aims to become a **smart agricultural platform** tha
 
 Ndwandwe AgriConnect Africa is designed as a **mobile-driven agricultural platform** that connects farmers to farm management tools, data analysis, and market insights.
 
+
