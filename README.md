@@ -32,7 +32,7 @@ The goal of this platform is to support farmers with **digital tools that improv
 Provides farmers with a quick overview of farm operations including crop totals, weather conditions, financial info, and farm alerts.
 
 ### Crop Management
-![Crops](crops.png)  
+![Crops](crops.png.jpg)  
 Farmers can add and manage crops, organize fields, and monitor production.
 
 ### Soil Analysis
