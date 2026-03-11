@@ -29,7 +29,7 @@ The goal of this platform is to support farmers with digital tools that improve 
 
 ## Farm Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpg)
 
 The dashboard provides farmers with a quick overview of farm operations including crop totals, weather conditions, financial information, and farm alerts.
 
@@ -45,7 +45,7 @@ Farmers can easily add and manage crops, making it easier to organize fields and
 
 ## Soil Analysis
 
-![Soil Analysis](soil-analysis.png)
+![Soil Analysis](soil-analysis.png.jpg)
 
 The soil analysis feature helps farmers understand soil conditions and make better crop management decisions.
 
@@ -53,7 +53,7 @@ The soil analysis feature helps farmers understand soil conditions and make bett
 
 ## Weather Monitoring
 
-![Weather](weather.png)
+![Weather](weather.png.jpg)
 
 Farmers can monitor weather conditions and receive alerts that help them plan farming activities more effectively.
 
@@ -61,7 +61,7 @@ Farmers can monitor weather conditions and receive alerts that help them plan fa
 
 ## Pest Detection
 
-![Pests](pests.png)
+![Pests](pests.png.jpg)
 
 This feature helps farmers identify pest risks and protect crops from potential damage.
 
@@ -69,7 +69,7 @@ This feature helps farmers identify pest risks and protect crops from potential 
 
 ## Farm Expenses
 
-![Expenses](expenses.png)
+![Expenses](expenses.png.jpg)
 
 Farmers can track farm expenses and monitor financial activities to better manage farm resources.
 
@@ -77,7 +77,7 @@ Farmers can track farm expenses and monitor financial activities to better manag
 
 ## Market Analysis
 
-![Market Analysis](market-analysis.png)
+![Market Analysis](market-analysis.png.jpg)
 
 Farmers can monitor crop market prices and trends to make better decisions about when and where to sell their produce.
 
