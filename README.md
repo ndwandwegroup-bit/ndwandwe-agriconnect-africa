@@ -37,7 +37,7 @@ The dashboard provides farmers with a quick overview of farm operations includin
 
 ## Crop Management
 
-![Crops](crops.png)
+![Crops](crops.png.jpg)
 
 Farmers can easily add and manage crops, making it easier to organize fields and monitor production.
 
